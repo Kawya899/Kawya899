@@ -57,10 +57,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawyadissanayaka&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawyadissanayaka&layout=compact&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NavinduRanasinghe&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduRanasinghea&layout=compact&theme=rose_pine" width="48%" />
 </p>
-
 ---
 
 ## 🏆 GitHub Achievements
