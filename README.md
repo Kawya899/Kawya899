@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kawya899&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawya899&layout=compact&theme=rose_pine" width="48%" />
 </p>
 ---
 
