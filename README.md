@@ -14,27 +14,38 @@
 - 💡 Passionate about **Software Development**, **AI**, and **Creative UI/UX Design**  
 - 🚀 **Current Projects:**
   - 🧠 *Medical Chatbot* – AI-based symptom checker and consultation support  
-  - 🍕 *Pizza Hut Ordering System* – Web-based order, menu, and payment interface  
+  - 🍕 *Shopping Center Ordering System* – Web-based order, menu, and payment interface  
   - 📦 *Order Processing System* – Inventory and order tracking platform  
-- 🌱 Learning:
-  - Backend: `Flask`, `API Integration`, `Database Design`
-  - Frontend: `HTML`, `CSS`, `UI Design principles`
-  - Data: `SQL`, `data handling`, `user feedback analysis`  
+- 🌱 Currently Learning:
+  - 🔧 Backend: `Flask`, `API Integration`, `Database Design`  
+  - 🎨 Frontend: `HTML`, `CSS`, `UI Design Principles`  
+  - 🗃️ Data: `SQL`, `Data Handling`, `User Feedback Analysis`  
 - 📬 Reach me: **kawyadissanayaka3@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Toolbox
 
-### 👩‍💻 Languages, Tools & Frameworks
+<h3>🧠 Languages & Frameworks</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736"  width="40" height="40"/>
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ffc0cb?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Flask-ffb6c1?style=for-the-badge&logo=flask&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-f48fb1?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-ba68c8?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F06292?style=for-the-badge&logo=git&logoColor=white"/>
+<h3>☁️ Tools, Cloud & Platforms</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
+</p>
+
+
+<h3>💾 Databases</h3>
+<p align="left">
+  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245"width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40"/>
 </p>
 
 ---
@@ -42,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawyadissanayaka&show_icons=true&theme=rose_pine" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawyadissanayaka&layout=compact&theme=rose_pine" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kawyadissanayaka&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawyadissanayaka&layout=compact&theme=rose_pine" width="48%" />
 </p>
 
 ---
