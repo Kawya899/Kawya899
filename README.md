@@ -65,7 +65,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kawyadissanayaka&theme=gruvbox&no-frame=true&title=Commit,Repositories,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kawya899&theme=gruvbox&no-frame=true&title=Commit,Repositories,Stars" />
 </p>
 
 ---
