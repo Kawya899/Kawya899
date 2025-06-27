@@ -79,12 +79,13 @@
 
 <p align="center">
   <a href="mailto:kawyadissanayaka3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d6336c?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNIgSBqDoh5DksRPFBgbX_7RxXOci1086xA&s" alt="Gmail Badge"width="40" height="40"/> 
   </a>
-  <a href="https://linkedin.com/in/kawyadissanayaka">
-    <img src="https://img.shields.io/badge/LinkedIn-7b1fa2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/kawyadissanayaka-5a0ba1322">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn Badge" width="50" height="50"/>
   </a>
 </p>
+
 
 ---
 
