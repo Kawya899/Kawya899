@@ -58,6 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kawya899&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawya899&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawya899&layout=compact&theme=rose_pine" width="48%" />
 </p>
 ---
